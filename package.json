@@ -1,0 +1,8 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tyson-haw/to-do.git",
+  "author": "tyson-haw <tyson.haw@gmail.com>",
+  "license": "MIT"
+}
